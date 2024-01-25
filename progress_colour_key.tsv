@@ -1,0 +1,9 @@
+Colour	Description	Shorthand
+#eef219	 Baker was the star baker	star
+#f5f5f5	 Baker got through to the next round	moves
+tomato	 Baker was eliminated	out
+pink	 Baker was one of the judges' least favourite bakers that week, but was not eliminated	dislike
+palegreen	 Baker was one of the judges' favourite bakers that week	like
+limegreen	 Baker was the series winner	winner
+gray	 Baker did not compete due to illness	ill
+silver	Baker is no longer participating	done
